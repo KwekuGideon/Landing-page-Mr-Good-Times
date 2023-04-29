@@ -1,0 +1,152 @@
+body {
+  background-color: #ffffff;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.navbar {
+  display: flex;
+  color: #f9faf8;
+  background-color: #1f2937;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.first {
+  display: flex;
+  color: #f9faf8;
+  background-color: #1f2937;
+  align-items: center;
+  justify-content: center;
+  padding: 90px;
+}
+
+.placeholder {
+  height: 300px;
+  width: 600px;
+  border: 1px solid darkgray;
+  margin-top: 1px;
+  background-color: darkgray;
+}
+
+.apex {
+  display: flex;
+  flex-basis: 400px;
+  flex-direction: column;
+  text-align: left;
+  margin-right: 50px;
+  opacity: 0.7;
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #f9faf8;
+  margin: 0;
+}
+
+.sign {
+  width: 100px;
+  color: #f9faf8;
+  background-color: #3882f6;
+  height: 30px;
+  border-radius: 6px;
+}
+
+.header2 {
+  color: black;
+  margin: 30px;
+}
+
+.pic {
+  height: 200px;
+  width: 200px;
+  border: 1px solid blue;
+  border-radius: 20px;
+}
+
+.pic-containers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0 0 80px;
+}
+
+.conclusion {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1f2937;
+  font-style: italic;
+  text-align: left;
+}
+span {
+  float: right;
+  color: black;
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.third {
+  background-color: #e5e7eb;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 40px 0 30px;
+}
+
+.last {
+  height: 200px;
+  padding: 60px 20px 20px 20px;
+  border: 1 px solid black;
+}
+
+.blue {
+  background-color: #3882f6;
+  margin: 5px 30px 30px 50px;
+  padding-left: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #fff;
+  text-align: left;
+}
+
+h3 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #e5e7eb;
+  margin: 30px 0 0 50px;
+  padding: 0;
+}
+
+.signup {
+  height: 30px;
+  width: 100px;
+  color: #e5e7eb;
+  background-color: #3882f6;
+  border-color: #fff;
+  border-radius: 7px;
+}
+
+.footer {
+  background-color: #1f2937;
+  height: 20px;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin: 0;
+}
