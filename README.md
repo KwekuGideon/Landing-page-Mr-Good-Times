@@ -1,2 +1,2 @@
-# Landing-page-Mr-Good-Times
+# landing-page
 trial landing page
